@@ -1,0 +1,12 @@
+/*
+Theme Name: WP_Padrão
+Theme URI: https://www.facebook.com/cleyson.leal.3
+Description: Template padrão para começar o desenvolvimento, Template totalmente branco e funcional [|Normalise css | Jquery | Javascript | HTML5|]
+Version:1.0
+Author: Cleyson Leal [Kurei]
+Author URI: https://www.facebook.com/cleyson.leal.3
+*/
+/*-------ESTILOS GERAIS-------*/
+@import url(css/reset.css);
+@import url(css/template.css);
+/*----FECHA ESTILOS GERAIS----*/
