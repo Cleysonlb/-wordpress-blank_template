@@ -2,12 +2,12 @@
 Functional wordpress template blank! 
 ready to develop your website.
 
-<h5>useful functions</h5>
+<h3>useful functions</h3>
 
 <h6>Loop post</h6>
 
-<?php while (have_posts()) : the_post(); ?>
---- POST ---
+<?php while (have_posts()) : the_post(); ?><br>
+--- POST ---<br>
 <?php endwhile;  wp_reset_query(); ?>
 
 
